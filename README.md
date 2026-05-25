@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Preview.jfif" width="1000"/>
+  <img src="images/Preview.png" width="1000"/>
 </p>
 
 # 🧠 Smart Note It
@@ -46,7 +46,7 @@ By integrating collaboration and artificial intelligence into a single platform,
 ## 📷 Application Preview
 
 <p align="center">
-  <img src="images/Preview.jfif" width="1000"/>
+  <img src="images/Preview.png" width="1000"/>
 </p>
 
 ---
